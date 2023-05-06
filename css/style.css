@@ -386,3 +386,20 @@ a {
 .header__content-btn .button {
   margin-right: 20px;
 }
+
+/* space shop */
+
+.space__shop-container {
+  padding: 100px 0px;
+  background-color: var(--black1-color);
+  color: var(--grey-color);
+}
+
+.space__shop-content-title {
+  font-size: 60px;
+  text-transform: uppercase;
+  color: var(--orange-color);
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
